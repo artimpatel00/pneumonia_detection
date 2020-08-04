@@ -1,4 +1,4 @@
-# Pneumonia_detection
+# Pneumonia_detection_with_Computer_Vision
 
 This is a comparison of different Convolutional Neural Network Architectures for Pneumonia Detection in chest X-Rays.
 
